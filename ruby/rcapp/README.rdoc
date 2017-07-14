@@ -1,0 +1,8 @@
+== README
+
+This directory contains a simple Rails app using Stripe Checkout,
+created by following the instructions at:
+
+https://stripe.com/docs/checkout/guides/rails
+
+Additional notes are at http://wiki.wsmoak.net/cgi-bin/wiki.pl?StripeRailsCheckoutGuide
